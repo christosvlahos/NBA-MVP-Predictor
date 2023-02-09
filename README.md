@@ -20,8 +20,5 @@ The notebooks folder includes three jupyter notebooks focused on
 
 There is also a python script including all the custom functions used in the previously mentioned notebooks.
 
-## Figures
-Folder including interactive scatter plots from the EDA section of the MVP_predictions notebook, showing the relation of the share of MVP votes of each candidate with some main features.
-
 ## Environment
 The run the files in this repository you can create a virtual environment using the requirements.txt file to install the necessary dependencies.
